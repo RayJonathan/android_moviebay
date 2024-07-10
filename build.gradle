@@ -4,3 +4,9 @@ plugins {
 alias(libs.plugins.android.application) apply false
     alias(libs.plugins.google.gms.google.services) apply false
 }
+sonar {
+    properties {
+        property "sonar.projectKey", "android-test1"
+        property "sonar.projectName", "android-test1"
+    }
+}
