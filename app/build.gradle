@@ -5,8 +5,8 @@ plugins {
 }
 sonar {
     properties {
-        property "sonar.projectKey", "sqp_dc47fe75b1359d8d50508d947dbf2f236053ebc5"
-        property "sonar.host.url", "http://localhost:9000"
+        property "sonar.projectKey", "android-test1"
+        property "sonar.projectName", "android-test1"
     }
 }
 android {
