@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824081332464",
+    "project_id": "movie-bay-a3c40",
+    "storage_bucket": "movie-bay-a3c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824081332464:android:4672f7c0c868c44f0eea35",
+        "android_client_info": {
+          "package_name": "com.example.moviebay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DolEF2oeBkVH_wIeHOs4pZLpaCqlA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
